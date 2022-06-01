@@ -1,8 +1,8 @@
 Hi 👋 My name is uzochukwu victor
 Full Stack Web Developer
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://vx-creatives.com)
-* ✉️  You can contact me at [admin@vx-creatives.com](mailto:admin@vx-creatives.com)
+<!-- * 🖥️  See my portfolio at [My Portfolio](http://vx-creatives.com) -->
+* ✉️  You can contact me at [vickzdev@.com](mailto:vickzdev@gmail.com)
 * 🧠  I'm learning Python
 
 ### Skills
