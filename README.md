@@ -2,9 +2,9 @@ Hi 👋 My name is uzochukwu victor
 Full Stack Web Developer
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [vickzdev@gmail.com](mailto:vickzdev@gmail.com)
-*     Join ALX Software Engineering [COHORT 10]
-<!-- * 🖥️  See my portfolio at [My Portfolio](http://vx-creatives.com) -->
-<!-- * 🧠  I'm learning Python -->
+* 🧠  Joined ALX Software Engineering [COHORT 10](https://www.alxafrica.com/)
+* 🖥️  See my portfolio at [My Portfolio](http://vickzdev.netlify.app)
+* 🧠  I'm learning Python
 
 ### Skills
 
